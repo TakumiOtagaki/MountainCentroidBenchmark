@@ -1,0 +1,6 @@
+[submodule "software/MountainCentroid"]
+	path = software/MountainCentroid
+	url = ../MountainCentroid.git
+[submodule "software/R4RNA"]
+	path = software/R4RNA
+	url = https://github.com/Ikarto/R4RNA.git

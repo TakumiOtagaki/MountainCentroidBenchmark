@@ -1,0 +1,11 @@
+data/rnastralign.csv
+results/raw/
+build/
+logs/
+.venv/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*.partial
+*.log
+.DS_Store
